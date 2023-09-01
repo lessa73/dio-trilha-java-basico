@@ -1,5 +1,5 @@
 package DesafioControleFluxo;
 
-public class parametrosInvalidosException {
+public class parametrosInvalidosException extends Exception {
     
 }
